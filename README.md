@@ -41,7 +41,11 @@ Combina los resultados extraídos con una base de datos externa utilizando el ca
 
 ## Requisitos
 
-Se detallan en el archivo [`requirements.txt`](./requirements.txt).
+Se detallan en el archivo [`requirements.txt`](./requirements.txt).*
+
+*Para instalar todas las dependencias ejecute:
+pip install -r requirements.txt
+
 
 ---
 
